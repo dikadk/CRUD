@@ -1,0 +1,33 @@
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.table td {
+    text-align: left;
+
+}
+table{
+    table-layout: fixed;
+}
+
+
+p{
+    text-align: -webkit-right;
+    padding-right: 5px;
+}
+
+#count{
+    float: right;
+}
+
+
+section{
+    padding: 50px 0;
+}
+
+@media (max-width: 320px) {
+    .table-content {
+        padding-left: 0px;
+    }
+}
